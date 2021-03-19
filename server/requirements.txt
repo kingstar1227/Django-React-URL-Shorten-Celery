@@ -7,7 +7,7 @@ Django==1.11.5
 django-cors-headers==2.1.0
 django-models-ext==1.1.9
 django-url-shortening==1.0.0
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 importlib-metadata==0.23
 kombu==3.0.37
